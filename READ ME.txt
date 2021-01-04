@@ -1,0 +1,11 @@
+thenickz---
+
+IMPORTANT => you must have python3 intalled in your computer.
+
+
+my first game in python
+rock, scissor and paper (in portuguese it has another name).
+
+i took probably took 20 or 30 min to create it, it was cool.
+
+this is the first version by thenickz
